@@ -1,0 +1,171 @@
+{
+    "schemaVersion": 1,
+    "generatedAt": "2026-08-15T08:57:28.402Z",
+    "extensions": {
+        "coffice-agent-auggie": {
+            "name": "coffice-agent-auggie",
+            "displayName": "Augment Code",
+            "version": "1.0.0",
+            "description": "Integrates Augment Code as an ACP adapter in COffice AI.",
+            "author": "MakeAI",
+            "engines": {
+                "aionui": "^1.0.0"
+            },
+            "hubs": [
+                "acpAdapters"
+            ],
+            "contributes": {
+                "acpAdapters": [
+                    "auggie"
+                ]
+            },
+            "dist": {
+                "tarball": "coffice-agent-auggie.zip",
+                "integrity": "sha256-6af8e722cb2cfcd8a2944d54e0a0b2d76c009bc1a1f1f8f6234d64383cc48bad",
+                "unpackedSize": 2870
+            }
+        },
+        "coffice-agent-claude": {
+            "name": "coffice-agent-claude",
+            "displayName": "Claude Code",
+            "version": "1.0.0",
+            "description": "Integrates Anthropic's Claude Code CLI as an ACP adapter in COffice AI.",
+            "author": "MakeAI",
+            "engines": {
+                "aionui": "^1.0.0"
+            },
+            "hubs": [
+                "acpAdapters"
+            ],
+            "contributes": {
+                "acpAdapters": [
+                    "claude"
+                ]
+            },
+            "dist": {
+                "tarball": "coffice-agent-claude.zip",
+                "integrity": "sha256-3cfa341848d76e891871eece0b6fb2753aa9958117702ef8e00e9de9799753d6",
+                "unpackedSize": 2438
+            }
+        },
+        "coffice-agent-codebuddy": {
+            "name": "coffice-agent-codebuddy",
+            "displayName": "CodeBuddy",
+            "version": "1.0.0",
+            "description": "Integrates CodeBuddy as an ACP adapter in COffice AI.",
+            "author": "MakeAI",
+            "engines": {
+                "aionui": "^1.0.0"
+            },
+            "hubs": [
+                "acpAdapters"
+            ],
+            "contributes": {
+                "acpAdapters": [
+                    "codebuddy"
+                ]
+            },
+            "dist": {
+                "tarball": "coffice-agent-codebuddy.zip",
+                "integrity": "sha256-35e1181bf5725dd3d43c1c8ca152609151a9ce76948aafbc4c0e2f0e6d2c9585",
+                "unpackedSize": 3308
+            }
+        },
+        "coffice-agent-codex": {
+            "name": "coffice-agent-codex",
+            "displayName": "Codex",
+            "version": "1.0.0",
+            "description": "Integrates OpenAI Codex CLI as an ACP adapter in COffice AI.",
+            "author": "MakeAI",
+            "engines": {
+                "aionui": "^1.0.0"
+            },
+            "hubs": [
+                "acpAdapters"
+            ],
+            "contributes": {
+                "acpAdapters": [
+                    "codex"
+                ]
+            },
+            "dist": {
+                "tarball": "coffice-agent-codex.zip",
+                "integrity": "sha256-7c167f7f42117c9e923c36cbe91d0c3c8efc47765bb25a1edb6d79fdaef1c20b",
+                "unpackedSize": 1954
+            }
+        },
+        "coffice-agent-goose": {
+            "name": "coffice-agent-goose",
+            "displayName": "Goose",
+            "version": "1.0.0",
+            "description": "Integrates Goose as an ACP adapter in COffice AI.",
+            "author": "MakeAI",
+            "engines": {
+                "aionui": "^1.0.0"
+            },
+            "hubs": [
+                "acpAdapters"
+            ],
+            "contributes": {
+                "acpAdapters": [
+                    "goose"
+                ]
+            },
+            "dist": {
+                "tarball": "coffice-agent-goose.zip",
+                "integrity": "sha256-3422adc5053fa58b387adaf06547ae3be79c6981047af5f45833238fb144967a",
+                "unpackedSize": 3442
+            }
+        },
+        "coffice-agent-opencode": {
+            "name": "coffice-agent-opencode",
+            "displayName": "OpenCode",
+            "version": "1.0.0",
+            "description": "Integrates OpenCode as an ACP adapter in COffice AI.",
+            "author": "MakeAI",
+            "engines": {
+                "aionui": "^1.0.0"
+            },
+            "hubs": [
+                "acpAdapters"
+            ],
+            "contributes": {
+                "acpAdapters": [
+                    "opencode"
+                ]
+            },
+            "dist": {
+                "tarball": "coffice-agent-opencode.zip",
+                "integrity": "sha256-e83df7f82dfdc409fd8841b06e3655703e20e36746401bc134a8b9fa9326eb9e",
+                "unpackedSize": 2269
+            }
+        },
+        "coffice-agent-qwen": {
+            "name": "coffice-agent-qwen",
+            "displayName": "Qwen Code",
+            "version": "1.0.0",
+            "description": "Integrates Qwen CLI as an ACP adapter in COffice AI.",
+            "author": "MakeAI",
+            "engines": {
+                "aionui": "^1.0.0"
+            },
+            "hubs": [
+                "acpAdapters"
+            ],
+            "contributes": {
+                "acpAdapters": [
+                    "qwen"
+                ]
+            },
+            "dist": {
+                "tarball": "coffice-agent-qwen.zip",
+                "integrity": "sha256-e72168dd2469d6fc12942edac47281f73ff838b38c1e573c7e57563b06e81315",
+                "unpackedSize": 2532
+            }
+        }
+    },
+    "metadata": {
+        "totalExtensions": 7,
+        "generatedBy": "MakeAI Extension Builder v1.0.0"
+    }
+}
