@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "generatedAt": "2026-08-15T08:57:28.402Z",
+    "generatedAt": "2026-08-15T09:07:51.093Z",
     "extensions": {
         "coffice-agent-auggie": {
             "name": "coffice-agent-auggie",
@@ -21,8 +21,8 @@
             },
             "dist": {
                 "tarball": "coffice-agent-auggie.zip",
-                "integrity": "sha256-6af8e722cb2cfcd8a2944d54e0a0b2d76c009bc1a1f1f8f6234d64383cc48bad",
-                "unpackedSize": 2870
+                "integrity": "sha256-17db47a89e3ae2e27ce0d96c00ac43845ec6390d5b570818a6d15627394931ff",
+                "unpackedSize": 2944
             }
         },
         "coffice-agent-claude": {
@@ -44,8 +44,8 @@
             },
             "dist": {
                 "tarball": "coffice-agent-claude.zip",
-                "integrity": "sha256-3cfa341848d76e891871eece0b6fb2753aa9958117702ef8e00e9de9799753d6",
-                "unpackedSize": 2438
+                "integrity": "sha256-7c6a11de3c60371d275894ccb8ad5ca82f3c165243f1f1fc4a3734dc4b6fd7d6",
+                "unpackedSize": 2511
             }
         },
         "coffice-agent-codebuddy": {
@@ -67,8 +67,8 @@
             },
             "dist": {
                 "tarball": "coffice-agent-codebuddy.zip",
-                "integrity": "sha256-35e1181bf5725dd3d43c1c8ca152609151a9ce76948aafbc4c0e2f0e6d2c9585",
-                "unpackedSize": 3308
+                "integrity": "sha256-c5249544806a3d5aaaf718dbbaf7d30941895a0bdbae5f510d254cbfce6f3ca4",
+                "unpackedSize": 3382
             }
         },
         "coffice-agent-codex": {
@@ -90,8 +90,8 @@
             },
             "dist": {
                 "tarball": "coffice-agent-codex.zip",
-                "integrity": "sha256-7c167f7f42117c9e923c36cbe91d0c3c8efc47765bb25a1edb6d79fdaef1c20b",
-                "unpackedSize": 1954
+                "integrity": "sha256-6256bf4c5cdb4ed98e8403ee738e075503f2144285926fb0ecbdee6b2a615ed4",
+                "unpackedSize": 2029
             }
         },
         "coffice-agent-goose": {
@@ -113,8 +113,8 @@
             },
             "dist": {
                 "tarball": "coffice-agent-goose.zip",
-                "integrity": "sha256-3422adc5053fa58b387adaf06547ae3be79c6981047af5f45833238fb144967a",
-                "unpackedSize": 3442
+                "integrity": "sha256-18ddc77044c9e49351d774ee37655f4ca8ab8effdb6731bea4b95deaeb5d9ed6",
+                "unpackedSize": 3514
             }
         },
         "coffice-agent-opencode": {
@@ -136,8 +136,8 @@
             },
             "dist": {
                 "tarball": "coffice-agent-opencode.zip",
-                "integrity": "sha256-e83df7f82dfdc409fd8841b06e3655703e20e36746401bc134a8b9fa9326eb9e",
-                "unpackedSize": 2269
+                "integrity": "sha256-1d408d719214218be99049e09d5fdfb7cdb03d758e3d66b8672a58c362ed53cc",
+                "unpackedSize": 2343
             }
         },
         "coffice-agent-qwen": {
@@ -159,8 +159,8 @@
             },
             "dist": {
                 "tarball": "coffice-agent-qwen.zip",
-                "integrity": "sha256-e72168dd2469d6fc12942edac47281f73ff838b38c1e573c7e57563b06e81315",
-                "unpackedSize": 2532
+                "integrity": "sha256-0e89a724b3a87383a346e543c33611a71da44c75ec505a03aaa21462273bfd01",
+                "unpackedSize": 2605
             }
         }
     },
